@@ -1,4 +1,4 @@
-# AirBnB clone - MySQL
+# MySQL
 
 ---
 
